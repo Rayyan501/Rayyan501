@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:rayyanahmadj@gmail.com"><img src="https://img.shields.io/badge/Email-rayyanahmadj@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-YourUsername-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Rayyan501"><img src="https://img.shields.io/badge/GitHub-Rayyan501-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  
 </p>
 
 ---
@@ -16,7 +16,6 @@
 
 🎓 Currently pursuing **Bachelor of Computer Science** at **Multimedia University**  
 📊 Enthusiast of **machine learning**, **data science**, and **AI**  
-🌍 Passionate about leveraging technology for **healthcare**, **nutrition**, and **AI-driven innovations**  
 🚀 Actively exploring **internship opportunities** to apply my knowledge and grow in real-world projects!
 
 ---
