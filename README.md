@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="mailto:rayyanahmadj@gmail.com"><img src="https://img.shields.io/badge/Email-rayyanahmadj@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-YourUsername-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 </p>
 
