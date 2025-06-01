@@ -38,9 +38,9 @@
 Clustering-based **food suggestions** using **nutritional profiles**.  
 **Tech Stack**: **K-Means**, **Seaborn**, **Pandas**
 
-### ❤️ **Heart Disease Prediction**  
-Optimizing models with **Jellyfish Search Optimization Algorithm (JSOA)**.  
-**Tech Stack**: **XGBoost**, **Hybrid ML**, **Scikit-learn**
+### ❤️ **[Boston-Airbnb-Market-Analysis](https://github.com/Rayyan501/Boston-Airbnb-Market-Analysis.git)**  
+Optimizing airbnb market with **Data-Driver insights**.  
+**Tech Stack**: **Random Forest**, **SVM**, **Scikit-learn**
 
 ---
 
