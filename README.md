@@ -16,7 +16,7 @@
 
 🎓 Currently pursuing **Bachelor of Computer Science** at **Multimedia University**  
 📊 Enthusiast of **machine learning**, **data science**, and **AI**  
-🚀 Actively exploring **internship opportunities** to apply my knowledge and grow in real-world projects!
+
 
 ---
 
