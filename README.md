@@ -42,6 +42,10 @@ Clustering-based **food suggestions** using **nutritional profiles**.
 Optimizing airbnb market with **Data-Driver insights**.  
 **Tech Stack**: **Random Forest**, **SVM**, **Scikit-learn**
 
+### ❤️ **[Lazada Malaysia Database Clone]([https://github.com/user-attachments/assets/3f591369-f75f-4823-a4aa-6bf3c78865de](https://github.com/Rayyan501/Lazada-Malaysia-Database-Clone.git))**  
+Building a relational Database  
+**Tech Stack**: **SQL**
+
 ---
 
 ## 📊 GitHub Stats
