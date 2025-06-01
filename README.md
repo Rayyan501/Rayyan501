@@ -34,7 +34,7 @@
 
 ## 📂 Projects
 
-### 🍽️ **Food Recommendation System**  
+### 🍽️ **[Food Recommendation System](https://github.com/Rayyan501/AI-Powered-Food-Recommendation-System.git)**  
 Clustering-based **food suggestions** using **nutritional profiles**.  
 **Tech Stack**: **K-Means**, **Seaborn**, **Pandas**
 
