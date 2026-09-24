@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Rayyan Ahmad Jawed</h1>
+<h1 align="center">Hey there! 👋 I'm Rayyan Ahmad</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Scientist;ML+Enthusiast;Turning+Data+Into+Insights&center=true&width=440&height=45&color=894DCD&vCenter=true&pause=1000&size=25" />
@@ -13,8 +13,9 @@
 
 ## 🧠 About Me
 
-🎓 Currently pursuing **Bachelor of Computer Science** at **Multimedia University**  
-📊 Enthusiast of **machine learning**, **data science**, and **AI**  
+🎓 Computer Science graduate from Multimedia University\
+📊 Interested in data analytics, data visualization, machine learning, and computer vision\
+🛠️ Built projects using Python, SQL, pandas, scikit-learn, and Tableau
 
 
 ---
@@ -25,7 +26,7 @@
 
 | 💻 Languages | 🧠 ML Libraries | 📈 Visualization | ☁️ Tools |
 |-------------|-----------------|------------------|----------|
-| Python, SQL, Java | Scikit-learn, PyTorch, Pandas, NumPy | Tableau, Matplotlib, Seaborn | AWS, Neo4j, Git, Jupyter |
+| Python, SQL, Java| Scikit-learn, PyTorch, Pandas, NumPy | Tableau, Matplotlib, Seaborn | AWS, Neo4j, Git, Jupyter |
 
 </div>
 
