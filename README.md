@@ -13,8 +13,9 @@
 
 ## 🧠 About Me
 
-🎓 Currently pursuing **Bachelor of Computer Science** at **Multimedia University**  
-📊 Enthusiast of **machine learning**, **data science**, and **AI**  
+🎓 Computer Science graduate from Multimedia University\
+📊 Interested in data analytics, data visualization, machine learning, and computer vision\
+🛠️ Built projects using Python, SQL, pandas, scikit-learn, and Tableau
 
 
 ---
